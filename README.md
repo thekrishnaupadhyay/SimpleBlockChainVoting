@@ -22,3 +22,4 @@ To design a secure and transparent blockchain-based voting mechanism that can sc
 
 
 Contract : 0xf8e81D47203A594245E36C48e151709F0C19fBe8
+<img width="1190" height="653" alt="image" src="https://github.com/user-attachments/assets/e6b54d98-3290-4b48-91b3-adf41252f247" />
