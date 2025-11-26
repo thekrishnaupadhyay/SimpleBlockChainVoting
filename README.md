@@ -20,3 +20,5 @@ To design a secure and transparent blockchain-based voting mechanism that can sc
 - Encryption-based anonymous voting.
 - Multi-phase election support.
 
+
+Contract : 0xf8e81D47203A594245E36C48e151709F0C19fBe8
